@@ -1,0 +1,15 @@
+create a controller file
+php artisan make:controller authController
+
+
+
+install passport
+php artisan passport:install
+
+
+migrate all tables
+php artisan migrate
+
+
+require laravel passport
+composer require laravel/passport
